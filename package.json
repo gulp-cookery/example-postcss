@@ -1,0 +1,33 @@
+{
+  "name": "example-postcss-demo",
+  "version": "0.1.0",
+  "description": "Demonstrates transforming styles using PostCSS with gulp-chef and gulp-ccr-postcss.",
+  "main": "index.js",
+  "keywords": [
+	"gulp",
+	"gulp 4.0",
+	"recipe",
+	"recipes",
+	"config",
+	"configure",
+	"configurable",
+	"configuration",
+	"configurations",
+    "PostCSS",
+    "gulp-chef",
+    "gulp-ccr",
+    "css"
+  ],
+  "author": "Amobiz",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.3.1",
+    "cssnano": "^3.4.0",
+    "cssnext": "^1.8.4",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-ccr-postcss": "^0.1.1",
+    "gulp-chef": "^0.1.0",
+    "gulp-postcss": "^6.0.1",
+    "precss": "^1.4.0"
+  }
+}
